@@ -1,2 +1,2 @@
-# Flag-Semaphore-Support-Tool
+# Flag_Semaphore_Support_Tool
 Flag Semaphore Support Tool
